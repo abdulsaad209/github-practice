@@ -9,3 +9,8 @@ for i in range(5):
 
 for i in range(10):
     print("Allah hu Akbar")
+
+
+for i in range(2):
+    print("finally i learn basic level of git & github")
+
